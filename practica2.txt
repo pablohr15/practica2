@@ -1,0 +1,1 @@
+Esta es la segunda práctica de GIT.
